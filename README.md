@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouadhbelgaied&label=Profile%20views&color=0e75b6&style=flat" alt="mouadhbelgaied" /> </p>
 
-- 💬 Ask me about **Machine Learning and Python.**
+- 💬 Ask me about **Machine Learning.**
 
 - 📫 How to reach me: **mouadh.belgaied@esprit.tn**
 
