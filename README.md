@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning.**
 
-- 📫 How to reach me: **mouadh.belgaied@esprit.tn**
+- 📫 How to reach me: **mouadh.belgaied16@gmail.com**
 
 - 💼 How to collaborate: **https://www.upwork.com/workwith/mouadhb2**
 
