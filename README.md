@@ -1,11 +1,11 @@
 ![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm Mouadh Belgaied</h1>
-<h3 align="center">A passionate Data Scientist from Tunisia</h3>
+<h3 align="center">Data Scientist & Python Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouadhbelgaied&label=Profile%20views&color=0e75b6&style=flat" alt="mouadhbelgaied" /> </p>
 
-- 💬 Ask me about **Machine Learning and Deep Learning.**
+- 💬 Ask me about **Python, Machine Learning, and Deep Learning.**
 
 - 📫 How to reach me: **mouadh.belgaied16@gmail.com**
 
